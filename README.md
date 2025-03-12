@@ -6,9 +6,9 @@ SHEILA0360's Github Stats
 </h2>
 
 <p align="center"> 
-  <img alt="Top Langs" width="450" src="https://github-readme-stats-eight-chi-46.vercel.app/api/top-langs/?username=SHEILA0360&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" width="450" src="https://github-readme-stats-eight-chi-46.vercel.app/api?username=SHEILA0360&theme=gruvbox_light&show_icons=true" />
-  <img alt="github grid" width="900" src = "outputs/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Top Langs" width="400" src="https://github-readme-stats-eight-chi-46.vercel.app/api/top-langs/?username=SHEILA0360&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" width="400" src="https://github-readme-stats-eight-chi-46.vercel.app/api?username=SHEILA0360&theme=gruvbox_light&show_icons=true" />
+  <img alt="github grid" width="800" src = "outputs/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br/>  
