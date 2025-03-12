@@ -14,6 +14,6 @@ SHEILA0360's Github Stats
 
 <p align= "center>
 
-![GitHub Snake Animation](https://github.com/SHEILA0360/SHEILA0360/blob/9bdcb967eb103d07bb27627e1eeebbff74510e28/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Animation](https://github.com/SHEILA0360/SHEILA0360/blob/df2c6f5069345b47fcb7f100f0a7b796c0f3894f/outputs/github-contribution-grid-snake-dark.svg)
 
 </p>
